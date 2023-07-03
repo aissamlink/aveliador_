@@ -2,15 +2,15 @@
   "ADS": {
 
 
-    "networkAd": "xxx",
+    "networkAd": "max",
    
     "Banner_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "Native_facebook" : "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
 
-    "inter_max": "37c0fd7e2939a3be",
-    "max_banner": "13482be8f771efc7",
-    "Native_max": "76d87171404718ed",
+    "inter_max": "c32f9d89d1a80214",
+    "max_banner": "9bf30236f7e31c0a",
+    "Native_max": "ae7bf447e0a5d49e",
 
     "startapp_id": "139480955",
 
